@@ -1,2 +1,1 @@
-# bocilgadis
-bocilgadis
+# [bocilgadis](https://bocilgadis.pages.dev)
